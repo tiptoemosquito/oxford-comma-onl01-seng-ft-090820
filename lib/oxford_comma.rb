@@ -1,5 +1,5 @@
 def oxford_comma(array)
-array = (element).split (",")
+array = (element)
 if 1-element
 elsif 2-element
 elsif 3-element
