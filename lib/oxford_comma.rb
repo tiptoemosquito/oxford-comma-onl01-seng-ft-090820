@@ -1,5 +1,5 @@
 def oxford_comma(array)
-array.inlude?(element)
+elements = value.split (",")
 
 
 end
