@@ -1,5 +1,4 @@
 def oxford_comma(array)
-elements = value.split ","
-
+array = elements.split(1)
 
 end
